@@ -1,5 +1,9 @@
 # COAL-THEORY-AND-LAB
 This repository contains assignments, lab tasks, and resources for the COAL course.
+# VIDEO LECTURES 
+# See full video course (in Urdu language) here: https://www.youtube.com/watch?v=eobVpYqvMGE&list=PLnd7R4Mcw3rJCvAduQxyySvejtBIaPs0O 
+# CODES USED IN THE LAB 
+->  https://github.com/recluze/assembly-lang-course
 # SETUP 
 ### FOR VSCODE -> 
 https://medium.com/@muhammadmeeran2003/how-to-set-up-assembly-language-on-visual-studio-code-2021-587a7b01c9a1

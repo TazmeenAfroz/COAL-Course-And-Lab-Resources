@@ -13,7 +13,7 @@ Go to terminal and type: sudo apt install dosbox</p>
 <p>Step5: After that open Dosbox and mount that NASM folder in Dosbox
 mount c /home/(username)/NASM
 For example:
-mount c /home/usman/NASM
+mount c /home/tazmeen/NASM
 type whoami in the terminal to find your PC’s username</p>
 <p>Step6:
 Go to C drive that you have already mounted

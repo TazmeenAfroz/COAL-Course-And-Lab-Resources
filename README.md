@@ -6,7 +6,7 @@ This repository contains assignments, lab tasks, and resources for the COAL cour
  Visit -> https://github.com/harismuneer/BelalHashmi-Assembly-Exercise-Solutions
 ## CODES USED IN THE LAB 
 ->  https://github.com/recluze/assembly-lang-course
-## SETUP 
+### SETUP 
 #### FOR VSCODE -> 
 https://medium.com/@muhammadmeeran2003/how-to-set-up-assembly-language-on-visual-studio-code-2021-587a7b01c9a1
 #### DOSBOX->

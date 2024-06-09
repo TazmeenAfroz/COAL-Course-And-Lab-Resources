@@ -1,6 +1,6 @@
-# COAL-THEORY-AND-LAB
+## COAL-THEORY-AND-LAB
 This repository contains assignments, lab tasks, and resources for the COAL course.
-## VIDEO LECTURES 
+### VIDEO LECTURES 
  See full video course (in Urdu language) here: https://www.youtube.com/watch?v=eobVpYqvMGE&list=PLnd7R4Mcw3rJCvAduQxyySvejtBIaPs0O 
 ### Book Exercises Solution
  Visit -> https://github.com/harismuneer/BelalHashmi-Assembly-Exercise-Solutions
